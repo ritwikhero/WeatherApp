@@ -1,0 +1,2 @@
+wkey = 9c147c384a95934d965e646a50beca38
+link = api.openweathermap.org/data/2.5/weather
